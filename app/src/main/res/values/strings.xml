@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceBookOAuthTest</string>
+    <string name="facebook_app_id">468469430681062</string> <string name="fb_login_protocol_scheme">fb46...서비스키...62</string>
+</resources>

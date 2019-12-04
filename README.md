@@ -67,4 +67,5 @@ LoginManager.getInstance().logOut();
 
 + 로그인한 계정에서 앱 관리
    + 페이스북 :  설정 -> 앱 및 웹사이트
+   
 <img src="https://postfiles.pstatic.net/MjAxOTEyMDRfMTY4/MDAxNTc1NDIyNTgxMjIy.E-20HF76GNFXXDNmfGkQm19kYk4ErRskUCBdM-utE1Ug.OF11c_tA6eqg5yErMTMBn5ImHsz7DgZUf3xUA1-cs-wg.PNG.whdals410/fb_OAuth_4.png?type=w773" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="IMG"></img>

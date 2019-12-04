@@ -1,5 +1,11 @@
 ### FacebookOAuth 입니다
 
+<img src="https://postfiles.pstatic.net/MjAxOTEyMDRfOTkg/MDAxNTc1NDIyNTgxMjMz.QmWNvFRxqcgvJn8fsYgnVyGOP9IfdJIVDlSvdMtYgycg.bO3ajI67QfsrPpsSiDg4h8p1AQgnJQKAvF_TzXn1Ds4g.PNG.whdals410/fb_OAuth_1.png?type=w773" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="IMG"></img>
+
+<img src="https://postfiles.pstatic.net/MjAxOTEyMDRfMjc5/MDAxNTc1NDIyNTgxMjM2.Dy2dTfuKF0-3zCPUkG0YiOEGFfGfhFIyCIXD6AZVSgUg.LCvQhsexlmCBv8f-qqpWyT_Sc2hUvaNSxK-jDsQkX9Ug.PNG.whdals410/fb_OAuth_3.png?type=w773" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="IMG"></img>
+
+<img src="https://postfiles.pstatic.net/MjAxOTEyMDRfODQg/MDAxNTc1NDIyNTgxMjI3.LItF3IofIzPYKMMRyJblU7D1G0qQ3wpJXEZmOJn_3I0g.x43qWphLQdIEZ4x8TV0XTPj1VnGu1E_eT54muy9O-pQg.PNG.whdals410/fb_OAuth_2.png?type=w773" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="IMG"></img>
+
 + 참고
   + [facebook for developers](https://developers.facebook.com/docs/facebook-login/android)
 
